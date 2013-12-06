@@ -1,5 +1,6 @@
 opencvjs
 ========
+(NOTE: This is a work in progress and at the moment, although the code is compiled, methods are not properly being exposed)
 
 OpenCV Modules Compiled to JS through Emscripten
 
